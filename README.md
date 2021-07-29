@@ -2,7 +2,6 @@
 
 - 💻 Aprendendo no momento HTML, CSS e JavaScript
 - 🧠 Conhecimento já em Python e Banco de Dados
-- 🔥 Qualquer contato comigo, mande e-mail em Caiohenriqqs@gmail.com
 - ❤️ Amor por aprender mais e mais sobre programação!
 
 <div>
