@@ -1,4 +1,4 @@
-### Eaiii, seu nerds! Sou o Caio 🖖
+### Eaiii, seu nerds! 🖖
 
 - 💻 Aprendendo no momento HTML, CSS e JavaScript
 - 🧠 Conhecimento já em Python e Banco de Dados
