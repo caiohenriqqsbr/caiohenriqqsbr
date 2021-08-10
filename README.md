@@ -1,7 +1,7 @@
 ### Eaiii, seu nerds! 🖖
 
 - 💻 Aprendendo no momento HTML, CSS e JavaScript
-- 🧠 Conhecimento já em Python e Banco de Dados
+- 🧠 Conhecimento formado em Python e Banco de Dados
 - ❤️ Amor por aprender mais e mais de programação!
 
 “Se depurar é o processo de remoção de bugs do software, então programação deve ser o processo de colocação deles.”
